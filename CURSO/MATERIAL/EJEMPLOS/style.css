@@ -1,0 +1,22 @@
+table {
+    color: blue;
+    border: rgb(68, 27, 27) 5px solid;
+}
+th {
+    border: red 5px solid;
+}
+button{
+    background-color: black;
+    color:aliceblue;
+}
+
+button:hover{
+    background-color: aquamarine;
+}
+h1{
+    background-color: aquamarine;
+}
+
+h2#id{
+    color: blue;
+}

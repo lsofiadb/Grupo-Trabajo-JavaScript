@@ -1,0 +1,17 @@
+Debilmente tipado
+
+#Declaracion de variables
+var miVariable = "giweb"
+console.log(miVariable)
+
+let, const
+
+about:blank --->URL
+
+
+cmd
+node -v
+
+node -->chrome
+
+
