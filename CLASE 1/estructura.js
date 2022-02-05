@@ -1,4 +1,4 @@
-//estructuras de control
+//ESTRUCTURAS DE CONTROL 
 var a = 5
 var b = 7
 if (a < b) {
@@ -15,8 +15,8 @@ if (a) {
 
 //valores falsy, truthy
 //valores intrinsecos
-//falsy 0 Nanfalse undefined null
-//truthy cualquier numero, string no vacio,objetos, arreglos, true
+//falsy 0 Nan false undefined null
+//truthy cualquier numero, string no vacio, objetos, arreglos, true
 //
 
 switch (a) {
@@ -37,5 +37,3 @@ function miFuncion(parametro) {
 }
 miFuncion()
 console.log(miFuncion(parametro))
-
-//

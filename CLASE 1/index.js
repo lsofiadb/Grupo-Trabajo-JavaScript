@@ -3,7 +3,8 @@ console.log(numero)
 
 //TIPOS DE DATOS
 
-//primitivos
+//PRIMITIVOS 
+
 //number 
 var a = 10
 var b = 3
@@ -40,13 +41,15 @@ var jerarquia = "hola mi nombre es 'laura' "
 console.log(jerarquia)
 
 //comillas invertidas
+//ascii alt+96
 var invertidas = `hola "laura" 'sofia'`
 
 console.log(invertidas)
 
-//ascii alt+96
 var otroNumero = 25
 console.log(`tengo un numero que es ${otroNumero}`)
+console.log('tengo un numero'+ otroNumero + 'mucho texto')
+
 
 //operaciones
 console.log('5' + 2)
